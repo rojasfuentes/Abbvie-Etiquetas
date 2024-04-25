@@ -1,0 +1,4 @@
+pyasn1==0.6.0
+PyPDF2==3.0.1
+PySimpleGUI==5.0.4
+rsa==4.9
